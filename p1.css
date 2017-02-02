@@ -1,0 +1,24 @@
+
+li a:hover
+{
+font-family: 'Marck Script', cursive;
+text-decoration:none;
+color:red;
+font-size:70px;
+text-shadow:3px 5px 8px orange;
+
+}
+font
+{ 
+text-align:center;
+font-size:50px;
+color:orange;
+}
+font:hover
+{
+text-decoration:none;
+text-shadow:3px 5px 8px orange;
+font-size:70px;
+color:yellow;
+cursor:pointer;
+}

@@ -1,0 +1,21 @@
+font
+{
+color:cyan;
+font-family: 'Cinzel', serif;
+
+
+}
+font:hover
+{
+	text-shadow:3px 5px 10px pink;
+	color:ff3e3g;
+	font-size=60px;
+}
+blockquote
+{
+color:ff5578;
+font-size:50px;
+}
+blockquote:hover
+{
+text-shadow:3px 7px 20px purple;
